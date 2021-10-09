@@ -1,0 +1,10 @@
+﻿target_sources (ex3_sameer_jbara PRIVATE "main.cpp"
+                                  "FunctionCalculator.cpp"
+                                  "Function.cpp"
+                                  "Sin.cpp"
+                                  "Ln.cpp"
+                                  "Poly.cpp"
+                                  "Mul.cpp"
+                                  "Add.cpp"
+                                  "Comp.cpp"
+                                  "Log.cpp")
